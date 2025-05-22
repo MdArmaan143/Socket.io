@@ -6,7 +6,7 @@ This is a simple real-time chat application built using Node.js, Express, and So
 
 ## 🚀 Live Demo
 
-🔗 https://socket-io-cx4b.onrender.com/
+🔗 https://socket-io-cx4b.onrender.com
 
 ---
 
